@@ -1,0 +1,27 @@
+body {
+    background-color:#158EEC;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20;
+    font-weight: 20px;
+}
+.caja {
+    width: 1000px;
+    height: 200px;
+    background-color: #06406D;
+    padding: 20px 20px 20px 20px;
+    border-radius: 5px;
+}
+.boton {
+    padding: 10px 20px;
+    color: aquamarine;
+    background-color: #EC670A;
+    font-size: 16px;
+    
+
+
+}
+.boton:hover {
+    color: 	#e83e8c;
+    background-color: 		#ffc107;
+}
